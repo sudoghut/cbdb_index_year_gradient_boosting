@@ -1,0 +1,1 @@
+Please download the latest version of the file named 'latest.7z' from https://huggingface.co/datasets/cbdb/cbdb-sqlite/blob/main/latest.7z. After downloading, decompress the file, and move the 'latest.db' file to the root directory of this repository.

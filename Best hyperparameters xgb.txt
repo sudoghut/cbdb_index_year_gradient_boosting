@@ -1,0 +1,8 @@
+RMSE: 468.225524
+MAE: 329.144974
+R2: 0.570525
+
+Best hyperparameters:
+{'colsample_bytree': 0.8, 'learning_rate': 0.2, 'max_depth': 7, 'n_estimators': 200}
+Best score:
+-215737.2951866115
