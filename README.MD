@@ -7,6 +7,8 @@ Still working...
 ## TODO list
 
 - Using CBDB Access to compare the loss between model and rules: 99_compare_model_and_rules
+- Trying k-fold
+- Ensemble learning
 
 ## Done
 
