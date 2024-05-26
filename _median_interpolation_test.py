@@ -20,7 +20,7 @@ medians = (
     .median()
 )
 
-print(medians)
+print(medians.head())
 
 
 def infer_birth_year(row, medians):
