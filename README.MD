@@ -6,15 +6,12 @@ Still working...
 
 ## TODO list
 
-Base on median_list.txt to work on 2_Interpolation.ipynb
-
-
 - Using CBDB Access to compare the loss between model and rules: 99_compare_model_and_rules
 
 ## Done
 
 - Create the fake birth year by median
-- If there are multiple time information to calculate the inferred birth year, then just calculate the average(as a test, maybe find a weight by using recursive_feature_elimination.py in the future)
+- If there are multiple time information to calculate the inferred birth year, then just calculate the medium(as a test, maybe find a weight by using recursive_feature_elimination.py in the future)
 - Use the inferred birth year to calculate all the year information for NA
 - Save the data_interpolated.csv
 - Train the model by 999_gredient_boosting.ipynb. Skip validation_set.csv personids in advance
